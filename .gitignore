@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+*.log
+
+# Oracle SQL Developer
+*.sqlj
+*.bak
+*.dmp
+*.log
+*.tmp
+
+# VS Code
+.vscode/
